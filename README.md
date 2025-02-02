@@ -1,6 +1,6 @@
 # Spam Email Classifier
 
-This project is a **Spam Email Classifier** built using Python and Streamlit. It uses a pre-trained model to predict whether an email is **Spam** or **Not Spam**. The app also provides the probability scores for both categories, enhancing transparency and reliability of the prediction.
+A S**Spam Email Classifier** application built with Python and Streamlit. It offers an interactive interface for predicting whether an email is **Spam** or **Not Spam**, with detailed probability scores, text input, and file upload support. The project uses a pre-trained model for robust predictions and features a user-friendly design.
 
 ## Features
 
